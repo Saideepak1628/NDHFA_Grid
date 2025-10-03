@@ -27,12 +27,12 @@ This allows the same functionality with a cross-platform UI while meeting the re
 4. **Error Logging**  
    - Any exceptions are logged to `~/Desktop/error_log.txt` with a timestamp.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** C# (.NET 8)  
 - **Framework:** .NET MAUI (Mac Catalyst target)  
 - **IDE:** Visual Studio 2022 for Mac  
 
-## ▶️ How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/Saideepak1628/NDHFA_Grid.git
