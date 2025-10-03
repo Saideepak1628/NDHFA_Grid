@@ -2,7 +2,7 @@
 
 This is a simple CSV Grid Viewer application built as part of the coding test.
 
-## 📌 Overview
+##  Overview
 - The application reads values from a **CSV file** (`data.csv`).
 - It displays them in a **grid (CollectionView)**.
 - When the user **selects a row**, a popup dialog shows the values from that row.
@@ -13,7 +13,7 @@ The original test instructions mentioned **WinForms or comparable application**.
 Since **WinForms is Windows-only**, and I am developing on macOS, I chose **.NET MAUI** with **Mac Catalyst**.  
 This allows the same functionality with a cross-platform UI while meeting the requirements.
 
-## 🔹 Features Implemented
+##  Features Implemented
 1. **CSV Reader**  
    - Loads rows from `data.csv`.  
    - If the file does not exist, a sample CSV file is created automatically.
