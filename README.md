@@ -8,7 +8,7 @@ This is a simple CSV Grid Viewer application built as part of the coding test.
 - When the user **selects a row**, a popup dialog shows the values from that row.
 - Any errors during execution are logged into a file named `error_log.txt` on the **Desktop**.
 
-## ⚡ Why .NET MAUI instead of WinForms?
+##  Why .NET MAUI instead of WinForms?
 The original test instructions mentioned **WinForms or comparable application**.  
 Since **WinForms is Windows-only**, and I am developing on macOS, I chose **.NET MAUI** with **Mac Catalyst**.  
 This allows the same functionality with a cross-platform UI while meeting the requirements.
